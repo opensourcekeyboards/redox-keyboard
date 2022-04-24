@@ -1,3 +1,13 @@
+# OpenSourceKeyboards disclaimer
+
+This repository is "frozen" at the point where PCBs were last made. [The original repository](https://github.com/mattdibi/redox-keyboard), by GitHub user [mattdibi](https://github.com/mattdibi), may have more up-to-date firmware, hardware, case design files, and other resources that still apply to the PCB revisions in this repository.
+
+This project was licensed under the MIT license at the time it was forked. See [LICENSE](LICENSE) for license details.
+
+The original README.md file continues below:
+
+---
+
 <p align="center">
 <img src="img/redox-logo.png" alt="Redox logo" width="600"/>
 <img src="img/qmk-badge-dark.png" alt="QMK" width="145"/>
